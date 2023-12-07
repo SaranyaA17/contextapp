@@ -1,0 +1,13 @@
+.users tr,td,th{
+    width: 250px;
+    height: 50px;
+    border: 1px solid black;
+    text-align: center;
+}
+.edt-dlt{
+    cursor: pointer;
+
+}
+.edt-dlt span:hover{
+    color: red;
+}
